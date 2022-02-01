@@ -55,7 +55,7 @@ emailjs.init("user_Wxqkg50nDMrKc88J6QDEV");
 				<div class="container">
 					<div class="info">
 						<h2>Welcome<br><span>back to school</span></h2>
-						<a href="events.html">Check out our upcoming events</a>
+						<a href="events.php">Check out our upcoming events</a>
 					</div>
 				</div>
 				<!-- / content -->
