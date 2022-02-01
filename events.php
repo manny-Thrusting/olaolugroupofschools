@@ -244,7 +244,7 @@
 					</ul>
 				</article>
 			</section>
-			<p class="copy">Copyright 2022 Ola Olu group of Schools. Designed by <a>AJD</a>. All rights reserved.</p>
+			<p class="copy">Copyright 2022 Ola Olu group of Schools. Designed by <a>AJ</a>. All rights reserved.</p>
 		</div>
 		<!-- / container -->
 	</footer>
