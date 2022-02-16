@@ -92,7 +92,7 @@
 							<div class="slide">
 								<ul>
 									<h1 class="single">A VIDEO FROM OUR VALENTINE'S DAY CELEBRATION</h1>
-									<video width="500" height="666" controls autoplay><source src="images/valday.mp4" type="video/mp4"></video>
+									<video width="400" height="533" controls autoplay><source src="images/valday.mp4" type="video/mp4"></video>
 								</ul>
 							</div>
 						</li>
