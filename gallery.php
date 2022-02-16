@@ -91,22 +91,8 @@
 						<li>
 							<div class="slide">
 								<ul>
-									<li><a href="#"><img src="images/5.png" alt=""></a></li>
-									<li><a href="#"><img src="images/5_2.png" alt=""></a></li>
-									<li><a href="#"><img src="images/5_3.png" alt=""></a></li>
-									<li><a href="#"><img src="images/5_4.png" alt=""></a></li>
-									<li><a href="#"><img src="images/5_5.png" alt=""></a></li>
-									<li><a href="#"><img src="images/5_6.png" alt=""></a></li>
-									<li><a href="#"><img src="images/5_7.png" alt=""></a></li>
-									<li><a href="#"><img src="images/5_8.png" alt=""></a></li>
-									<li><a href="#"><img src="images/5_9.png" alt=""></a></li>
-									<li><a href="#"><img src="images/5_10.png" alt=""></a></li>
-									<li><a href="#"><img src="images/5_11.png" alt=""></a></li>
-									<li><a href="#"><img src="images/5_12.png" alt=""></a></li>
-									<li><a href="#"><img src="images/5_13.png" alt=""></a></li>
-									<li><a href="#"><img src="images/5_14.png" alt=""></a></li>
-									<li><a href="#"><img src="images/5_15.png" alt=""></a></li>
-									<li><a href="#"><img src="images/5_16.png" alt=""></a></li>
+									<h1 class="single">A VIDEO FROM OUR VALENTINE'S DAY CELEBRATION</h1>
+									<video width="500" height="666" controls autoplay><source src="images/valday.mp4" type="video/mp4"></video>
 								</ul>
 							</div>
 						</li>
