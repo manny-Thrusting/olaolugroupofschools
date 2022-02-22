@@ -92,14 +92,13 @@
 							<div class="slide">
 								<ul>
 									<h1 class="single">A VIDEO FROM OUR VALENTINE'S DAY CELEBRATION</h1>
-									<video controls autoplay><source src="images/valday.mp4" type="video/mp4"></video>
-									<video controls autoplay><source src="images/valday2.mp4" type="video/MP4"></video>
-									<video controls autoplay><source src="images/valday3.mp4" type="video/MP4"></video>
-									<video controls autoplay><source src="images/valday4.mp4" type="video/MP4"></video>
-									<video controls autoplay><source src="images/valday5.mp4" type="video/MP4"></video>
-									<video controls autoplay><source src="images/valday6.mp4" type="video/MP4"></video>
-									<video controls autoplay><source src="images/valday7.mp4" type="video/MP4"></video>
-								</ul>
+									<video width="200" height="200" controls autoplay><source src="images/valday.mp4" type="video/mp4"></video>
+									<video width="200" height="200" controls autoplay><source src="images/valday2.MP4" type="video/MP4"></video>
+									<video width="200" height="200" controls autoplay><source src="images/valday3.MP4" type="video/MP4"></video>
+									<video width="200" height="200" controls autoplay><source src="images/valday4.MP4" type="video/MP4"></video>
+									<video width="200" height="200" controls autoplay><source src="images/valday5.MP4" type="video/MP4"></video>
+									<video width="200" height="200" controls autoplay><source src="images/valday6.MP4" type="video/MP4"></video>
+									<video width="200" height="200" controls autoplay><source src="images/valday7.MP4" type="video/MP4"></video>								</ul>
 							</div>
 						</li>
 					</ul>
