@@ -39,7 +39,7 @@
 	
 	<div class="content">
 		<div class="container">
-			<h1 class="single">PHOTOS</h1>
+			<h1 class="single">PICTURES FROM OUR CULTURAL DAY</h1>
 
 			<div class="main-content">
 				<div class="slider-con">
@@ -69,6 +69,7 @@
 						<li>
 							<div class="slide">
 								<ul>
+									<h1 class="single">NEWLY ELECTED PREFECTS</h1>
 									<li><a href="#"><img src="images/17.png" alt=""></a></li>
 									<li><a href="#"><img src="images/18.png" alt=""></a></li>
 									<li><a href="#"><img src="images/19.png" alt=""></a></li>
