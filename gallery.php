@@ -47,18 +47,18 @@
 						<li>
 							<div class="slide">
 								<ul>
-									<li><a href="#"><img src="images/5.png" alt=""></a></li>
-									<li><a href="#"><img src="images/5_2.png" alt=""></a></li>
-									<li><a href="#"><img src="images/5_3.png" alt=""></a></li>
-									<li><a href="#"><img src="images/5_4.png" alt=""></a></li>
-									<li><a href="#"><img src="images/5_5.png" alt=""></a></li>
-									<li><a href="#"><img src="images/5_6.png" alt=""></a></li>
-									<li><a href="#"><img src="images/5_7.png" alt=""></a></li>
-									<li><a href="#"><img src="images/5_8.png" alt=""></a></li>
-									<li><a href="#"><img src="images/5_9.png" alt=""></a></li>
-									<li><a href="#"><img src="images/5_10.png" alt=""></a></li>
-									<li><a href="#"><img src="images/5_11.png" alt=""></a></li>
-									<li><a href="#"><img src="images/5_12.png" alt=""></a></li>
+									<li><a href="#"><img src="images/15.png" alt=""></a></li>
+									<li><a href="#"><img src="images/15_2.png" alt=""></a></li>
+									<li><a href="#"><img src="images/15_3.png" alt=""></a></li>
+									<li><a href="#"><img src="images/15_4.png" alt=""></a></li>
+									<li><a href="#"><img src="images/15_5.png" alt=""></a></li>
+									<li><a href="#"><img src="images/15_6.png" alt=""></a></li>
+									<li><a href="#"><img src="images/15_7.png" alt=""></a></li>
+									<li><a href="#"><img src="images/15_8.png" alt=""></a></li>
+									<li><a href="#"><img src="images/15_9.png" alt=""></a></li>
+									<li><a href="#"><img src="images/15_10.png" alt=""></a></li>
+									<li><a href="#"><img src="images/15_11.png" alt=""></a></li>
+									<li><a href="#"><img src="images/15_12.png" alt=""></a></li>
 									<li><a href="#"><img src="images/5_13.png" alt=""></a></li>
 									<li><a href="#"><img src="images/5_14.png" alt=""></a></li>
 									<li><a href="#"><img src="images/5_15.png" alt=""></a></li>
